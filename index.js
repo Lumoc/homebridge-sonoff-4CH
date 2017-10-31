@@ -24,8 +24,8 @@ function sonoff4ch(log, config){
 
 	this.serviceInfo
 		.setCharacteristic(Characteristic.Manufacturer, 'Sonoff')
-		.setCharacteristic(Characteristic.Model, 'SonOff 4CH')
-		.setCharacteristic(Characteristic.SerialNumber, 'EB1B-ED2E-5EA945508A68');
+		.setCharacteristic(Characteristic.Model, 'SonOff 4CH PRO')
+		.setCharacteristic(Characteristic.SerialNumber, 'EB1B-ED2E-5EA945508A66');
 
 	this.service
 		.getCharacteristic(Characteristic.On)
