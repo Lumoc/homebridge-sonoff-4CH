@@ -103,7 +103,8 @@ EndOn
 ### Wiring schema
 
 Complex schema for wiring. You can use Home app and wall switch at the same time.  Wall switch must be alternate.
-https://ephzhb-my.sharepoint.com/personal/rade_bebek_ephzhb_ba/_layouts/15/guestaccess.aspx?docid=106903f3ac4f34e8fa7758e440d67e04a&authkey=Ad1x6E075t8FirAZyK3hS90&e=ce0462911d4a4bbfa44591b8f267b69f
+
+![Sonoff 4 CH or Sonoff 4 CH PRO](https://ephzhb-my.sharepoint.com/personal/rade_bebek_ephzhb_ba/_layouts/15/guestaccess.aspx?docid=106903f3ac4f34e8fa7758e440d67e04a&authkey=Ad1x6E075t8FirAZyK3hS90&e=ce0462911d4a4bbfa44591b8f267b69f)
 
 ### Installation
 
