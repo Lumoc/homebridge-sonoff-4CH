@@ -4,7 +4,7 @@ var Service, Characteristic;
 module.exports = function(homebridge){
 	Service = homebridge.hap.Service;
 	Characteristic = homebridge.hap.Characteristic;	
-	homebridge.registerAccessory('homebridge-sonoff4ch', 'sonoff4ch', sonoff4ch);
+	homebridge.registerAccessory('homebridge-sonoff4ch', 'SonOff_4CH', sonoff4ch);
 }
 
 function sonoff4ch(log, config){
