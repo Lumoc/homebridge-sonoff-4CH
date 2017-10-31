@@ -33,7 +33,7 @@ function sonoff4ch(log, config){
 		.on('set', this.setPowerState.bind(this));
 }
 
-SonoffBasicESPEasy.prototype = {
+sonoff4ch.prototype = {
 	getPowerState: function(callback){
 		var log = this.log;
 
