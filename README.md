@@ -64,40 +64,39 @@ Switch Button Type: Normal Switch
 
 10. Go to `RULES` section, insert the following codes and submit.
 
-    ```
-    On 4PowerOn Do
-    	gpio,4,1
-    EndOn
+```
+On 4PowerOn Do
+  gpio,4,1
+EndOn
 
-    On 4PowerOff Do
-    	gpio,4,0
-    EndOn
-    
-    On 5PowerOn Do
-      gpio,5,1
-    EndOn
+On 4PowerOff Do
+  gpio,4,0
+EndOn
 
-    On 5PowerOff Do
-    	gpio,5,0
-    EndOn
+On 5PowerOn Do
+  gpio,5,1
+EndOn
 
-    On 12PowerOn Do
-    	gpio,12,1
-    EndOn
+On 5PowerOff Do
+  gpio,5,0
+EndOn
 
-    On 12PowerOff Do
-    	gpio,12,0
-    EndOn
-    
-    On 15PowerOn Do
-      gpio,15,1
-    EndOn
+On 12PowerOn Do
+  gpio,12,1
+EndOn
 
-    On 15owerOff Do
-      gpio,15,0
-    EndOn
+On 12PowerOff Do
+  gpio,12,0
+EndOn
 
-    ```
+On 15PowerOn Do
+  gpio,15,1
+EndOn
+
+On 15PowerOff Do
+  gpio,15,0
+EndOn
+```
 
 11.Finally, the Sonoff basic switch is fully customized. Connect it to a live socket.
 
