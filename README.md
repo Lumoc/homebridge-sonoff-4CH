@@ -111,7 +111,7 @@ Complex schema for wiring. You can use Home app and wall switch at the same time
 1. Install required packages.
 
    ```
-   npm install -g homebridge-sonoff4ch request
+   npm install sonoff4ch
    ```
 
    ​
