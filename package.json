@@ -1,9 +1,10 @@
 {
-  "name": "sonoff4ch",
-  "version": "0.0.1",
+  "name": "SonOff_4CH",
+  "version": "0.0.5",
   "description": "Sonoff 4CH plugin for Homebridge.",
+  "author": "Rade Bebek",
   "keywords": [
-    "homebridge-plugin", "sonoff4CH", "espeasy"
+    "homebridge-plugin", "SonOff_4CH", "espeasy"
   ],
   "repository": {
     "type": "git",
