@@ -10,8 +10,8 @@ module.exports = function(homebridge){
 function sonoff4ch(log, config){
 	this.log = log;
 	this.name = config.name || 'Sonoff Switch';
-	this.gpio = config.gpio
 	this.ip = config.ip;
+	this.gpio = config.gpio;
 
 	if(!this.ip)
 		throw new Error('Your must provide IP address of the switch.');
