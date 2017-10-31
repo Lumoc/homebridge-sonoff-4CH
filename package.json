@@ -1,0 +1,17 @@
+{
+  "name": "sonoff4ch",
+  "version": "0.0.1",
+  "description": "Sonoff 4CH plugin for Homebridge.",
+  "keywords": [
+    "homebridge-plugin", "sonoff4CH", "espeasy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radebebek/homebridge-sonoff4ch.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0",
+    "request": ">=2.81.0"
+  }
+}
