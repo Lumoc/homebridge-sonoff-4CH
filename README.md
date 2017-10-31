@@ -26,38 +26,39 @@ Video instructions link: https://www.youtube.com/watch?v=hOFvbdYkOII
 
 7. Now, go to HARDWARE section, select GPIO-13 (D7) for Wifi Status Led to enable the green LED light on Sonoff. Submit the changes.
 
-8. Go to `DEVICES` section, edit `Task #1`. Insert the values:
-    ```
+8. 
+Go to `DEVICES` section, edit `Task #1`. Insert the values: 
+```
 Device: Switch input
 Name: Light1
 1st GPIO: Gpio 4
 Switch Type: Switch
 Switch Button Type: Normal Switch
-
+```
 Go to `DEVICES` section, edit `Task #2`. Insert the values:
-
+```
 Device: Switch input
 Name: Light2
 1st GPIO: Gpio 5
 Switch Type: Switch
 Switch Button Type: Normal Switch
-
+```
 Go to `DEVICES` section, edit `Task #3`. Insert the values:
-
+```
 Device: Switch input
 Name: Light3
 1st GPIO: Gpio 12
 Switch Type: Switch
 Switch Button Type: Normal Switch
-
+```
 Go to `DEVICES` section, edit `Task #4`. Insert the values:
-
+```
 Device: Switch input
 Name: Light4
 1st GPIO: Gpio 15
 Switch Type: Switch
 Switch Button Type: Normal Switch
-    ```
+```
 
 9. We have enabled the hardware GPIO to work, now we need to configure the rules for HTTP request.
 
