@@ -7,7 +7,7 @@ module.exports = function(homebridge){
 	homebridge.registerAccessory('homebridge-sonoff4ch', 'sonoff4ch', sonoff4ch);
 }
 
-function SonoffBasicESPEasy(log, config){
+function sonoff4ch(log, config){
 	this.log = log;
 	this.name = config.name || 'Sonoff Switch';
 	this.gpio = config.gpio
