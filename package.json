@@ -1,5 +1,5 @@
 {
-  "name": "SonOff_4CH",
+  "name": "sonoff4ch",
   "version": "0.0.5",
   "description": "Sonoff 4CH plugin for Homebridge.",
   "author": "Rade Bebek",
