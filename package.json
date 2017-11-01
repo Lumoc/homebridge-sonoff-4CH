@@ -1,14 +1,14 @@
 {
-  "name": "sonoff4ch",
-  "version": "0.0.5",
-  "description": "Sonoff 4CH plugin for Homebridge.",
-  "author": "Rade Bebek",
+  "name": "homebridge-sonoff-4CH",
+  "version": "0.0.1",
+  "description": "Sonoff 4CH Pro plugin for Homebridge.",
+  "license": "Rade Bebek",
   "keywords": [
-    "homebridge-plugin", "SonOff_4CH", "espeasy"
+    "homebridge-plugin", "sonoff", "espeasy", "sonoff-4CH", "sonoff-4CH-pro"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/radebebek/homebridge-sonoff4ch.git"
+    "url": "https://github.com/radebebek/homebridge-sonoff-4CH.git"
   },
   "engines": {
     "node": ">=0.12.0",
