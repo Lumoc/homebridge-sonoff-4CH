@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-sonoff-4CH",
-  "version": "0.0.1",
+  "name": "homebridge-sonoff-4ch",
+  "version": "1.0.0",
   "description": "Sonoff 4CH Pro plugin for Homebridge.",
   "license": "Rade Bebek",
   "keywords": [
