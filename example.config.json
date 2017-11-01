@@ -8,25 +8,25 @@
 
 	"accessories": [
 		   {
-			"accessory": "SonOff_4CH",
+			"accessory": "sonoff4ch",
 			"name": "Write_name_Light1",
 			"ip": "192.168.2.12",
                         "gpio": "4"
 		   },
                    {
-			"accessory": "SonOff_4CH",
+			"accessory": "sonoff4ch",
 			"name": "Write_name_Light2",
 			"ip": "192.168.2.12",
                         "gpio": "5"
 		   },
                    {
-			"accessory": "SonOff_4CH",
+			"accessory": "sonoff4ch",
 			"name": "Write_name_Light3",
 			"ip": "192.168.2.12",
                         "gpio": "12"
 		   },
                    {
-			"accessory": "SonOff_4CH",
+			"accessory": "sonoff4ch",
 			"name": "Write_name_Light4",
 			"ip": "192.168.2.12",
                         "gpio": "15"
