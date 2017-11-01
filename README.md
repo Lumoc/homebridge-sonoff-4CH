@@ -1,4 +1,4 @@
-# homebridge-sonoff4ch
+# homebridge-sonoff-4CH
 
 
 ![Sonoff 4 CH or Sonoff 4 CH PRO](http://sonoff.itead.cc/images/article/Sonoff-4ch-pro/4CH-PRO_EN.jpg)
